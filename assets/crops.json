@@ -1,0 +1,13 @@
+{
+    "STRAWBERRY": {
+        "days_to_grow": 7,
+        "name": "strawberry",
+        "stages_to_image": {
+            "7": "crop1.png",
+            "4": "crop2.png",
+            "0": "crop3.png"
+        },
+        "item_image": "strawberry.png",
+        "sell_price": 100
+    }
+}
